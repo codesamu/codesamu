@@ -1,11 +1,3 @@
-<div align="center">
-<img src="https://i.imgur.com/I4yQeTH.png" align="center" height="250" width="" />
-</div>  
-  
-
-<br/>  
-
-
 ## My Skill Set  
 
 
