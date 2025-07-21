@@ -15,12 +15,13 @@ Commited to improving problem-solving skills. Open to work on a project as a tea
 
 ###
 
-<p align="left">
+<p align="left" style="white-space: nowrap; overflow-x: auto;">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python Badge" />
   <img src="https://img.shields.io/badge/Golang-00ADD8?logo=go&logoColor=white&style=for-the-badge" alt="Golang Badge" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML Badge" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS Badge" />
   <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" alt="Markdown Badge" />
+  <img src="https://img.shields.io/badge/VHDL-A00732?logo=vhdl&logoColor=white&style=for-the-badge" alt="VHDL Badge" />
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" alt="Flask Badge" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL Badge" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git Badge" />
@@ -28,6 +29,7 @@ Commited to improving problem-solving skills. Open to work on a project as a tea
   <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge" alt="Neovim Badge" />
   <img src="https://img.shields.io/badge/Tmux-1BB91F?logo=tmux&logoColor=white&style=for-the-badge" alt="Tmux Badge" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" alt="VS Code Badge" />
+  <img src="https://img.shields.io/badge/Quartus-0078D7?logo=quartus&logoColor=white&style=for-the-badge" alt="Quartus Badge" />
   <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge" alt="OpenAI Badge" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white&style=for-the-badge" alt="Cloudflare Badge" />
   <img src="https://img.shields.io/badge/Tailscale-0046FF?logo=tailscale&logoColor=white&style=for-the-badge" alt="Tailscale Badge" />
