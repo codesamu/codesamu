@@ -3,7 +3,7 @@ Currently in my 4th year of school in HTL Anichstraße with a focus on software 
 
 ###
 
-- learning go, and scripting on windows and linux  
+- learning python and scripting on windows and linux  
 - trying to get better at coding every day  
 - coding since 2022
 
