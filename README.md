@@ -17,7 +17,6 @@ Commited to improving problem-solving skills. Open to work on a project as a tea
 
 <p align="left" style="white-space: nowrap; overflow-x: auto;">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python Badge" />
-  <img src="https://img.shields.io/badge/Golang-00ADD8?logo=go&logoColor=white&style=for-the-badge" alt="Golang Badge" />
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge" alt="C Badge" />
   <img src="https://img.shields.io/badge/Ballerina-52C3C2?logo=ballerina&logoColor=white&style=for-the-badge" alt="Ballerina Badge" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML Badge" />
