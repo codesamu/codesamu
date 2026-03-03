@@ -1,4 +1,4 @@
-<h1 align="left"> Hello world👋! I'm Samudev</h1>
+<h1 align="left"> Hello world👋! I'm Samuel</h1>
 Currently in my 4th year of school in HTL Anichstraße with a focus on software developement. I write code in mostly python, but i've been playing around with go aswell. I'm also familiar with MySQL and version control using Git.
 
 ###
